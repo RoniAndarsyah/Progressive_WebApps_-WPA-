@@ -6,3 +6,5 @@ Progressive Web Apps adalah sebuah web apps yang diberi “nutrisi” jadi user 
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
 Jangan lupa masukan file sesuai dengan nama Folder yang dibuat, sebagai contoh akan tampil Web Server URL nya 
 
+## Tambahkan CSS dan juga JS ke Aplikasi Kita##
+Ada 2 Folder Style dan Script dan tambahkan link nya
