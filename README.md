@@ -8,3 +8,9 @@ Jangan lupa masukan file sesuai dengan nama Folder yang dibuat, sebagai contoh a
 
 ## Tambahkan CSS dan juga JS ke Aplikasi Kita##
 Ada 2 Folder Style dan Script dan tambahkan link nya
+
+## Server Side Rendering ##
+Cara paling cepat untuk memulai jika untuk menampilkan data yang terbaru
+
+## Ajax Request ##
+Rendering data yang dibutuhkan dengan Ajax Request dan butuh LOAD JS dan memuat JS sampai ada di broiwser baru request akan tertriger Ajax Request
