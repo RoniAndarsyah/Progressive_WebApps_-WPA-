@@ -14,3 +14,6 @@ Cara paling cepat untuk memulai jika untuk menampilkan data yang terbaru
 
 ## Ajax Request ##
 Rendering data yang dibutuhkan dengan Ajax Request dan butuh LOAD JS dan memuat JS sampai ada di broiwser baru request akan tertriger Ajax Request
+
+## Kombinasi Server Side + Ajax Request ##
+menggunakan Model App Shell dan bisa dijalankan pada Console
