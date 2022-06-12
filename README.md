@@ -20,3 +20,6 @@ menggunakan Model App Shell dan bisa dijalankan pada Console
 
 ## Sumber Pustaka ##
 https://web.dev/progressive-web-apps/
+
+## Ini Halaman Offline Fallback ##
+https://offline-fallback-demo.glitch.me/index.html
