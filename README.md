@@ -17,3 +17,6 @@ Rendering data yang dibutuhkan dengan Ajax Request dan butuh LOAD JS dan memuat 
 
 ## Kombinasi Server Side + Ajax Request ##
 menggunakan Model App Shell dan bisa dijalankan pada Console
+
+## Sumber Pustaka ##
+https://web.dev/progressive-web-apps/
